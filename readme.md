@@ -1,3 +1,7 @@
 # Larry Plotter
 
-Esta saga de libros cuentan la historia de un hacker muy especial.
+
+Esta saga de libros cuentan la historia de un hacker muy especial
+
+Josselyn Jumpa
+
